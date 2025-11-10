@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Enhancer",
+  "description": "An application that uses the Gemini API to upscale and enhance user-uploaded images, displaying a side-by-side comparison of the original and the enhanced version.",
+  "requestFramePermissions": []
+}
